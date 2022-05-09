@@ -26,7 +26,12 @@ Based on our calculations, the home team has roughly 52% chance of winning the g
 Our summary tables indicate that 3 point percentage has the greatest effect on the outcome of the game. Field goal percentage should also be considered when predicting the outcome of a game.
 
 ## Screenshots
-![](      )
+### Question 1 Results:
+![](https://github.com/miabergstrom/nbastats/blob/main/Question1.PNG)
+### Question 2 Results:
+![](https://github.com/miabergstrom/nbastats/blob/main/Question2.1.PNG)
+
+![](https://github.com/miabergstrom/nbastats/blob/main/Question2.2.PNG)
 
 
 ## What I Learned 
